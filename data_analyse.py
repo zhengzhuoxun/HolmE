@@ -3,7 +3,7 @@ import numpy as np
 import pickle as pkl
 
 
-data_name = 'WN18RR_new'
+data_name = 'WN18RR'
 data_dir = os.path.join('datasets', 'data', data_name)
 
 train_data_dir = os.path.join(data_dir, 'train.pickle')
