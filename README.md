@@ -1,4 +1,4 @@
-# HolmE-AAAI
+# HolmE
 This is the code of paper “HolmE: Knowledge Graph Embedding Closed Under Composition”
 
 
